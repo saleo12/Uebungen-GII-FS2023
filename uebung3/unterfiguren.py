@@ -1,0 +1,3 @@
+class Punkt
+
+class Dreieck
