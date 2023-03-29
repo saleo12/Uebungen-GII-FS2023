@@ -1,8 +1,8 @@
 class Figur:
-    def __init__(self):
-        self.name = "Figur"
+    def __init__(self, name):
+        self.name = name
 
-    def Umfang(self):
+    def umfang(self):
         return 0
     
     def __str__(self):
